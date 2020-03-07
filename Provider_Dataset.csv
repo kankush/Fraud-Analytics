@@ -1,0 +1,32 @@
+Variable Name,Meaning
+AdmissionDate,Date at which Pateint was admitted
+Attended_Physician,Physician Attending the patient
+Beneficiary_ID,Pateint_ID
+Claim_End_Date,Date from which claim start
+Claim_ID,Claim_ID
+Claim_Start_Date,Date from which claim end
+Clm_Admit_Code,Claim_Admit_code
+ClmDiagnosisCode_1,Codes for Claim Diagnosis
+ClmDiagnosisCode_10,Codes for Claim Diagnosis
+ClmDiagnosisCode_2,Codes for Claim Diagnosis
+ClmDiagnosisCode_3,Codes for Claim Diagnosis
+ClmDiagnosisCode_4,Codes for Claim Diagnosis
+ClmDiagnosisCode_5,Codes for Claim Diagnosis
+ClmDiagnosisCode_6,Codes for Claim Diagnosis
+ClmDiagnosisCode_7,Codes for Claim Diagnosis
+ClmDiagnosisCode_8,Codes for Claim Diagnosis
+ClmDiagnosisCode_9,Codes for Claim Diagnosis
+ClmProcedureCode_1,Codes for Procedure Diagnosis
+ClmProcedureCode_2,Codes for Procedure Diagnosis
+ClmProcedureCode_3,Codes for Procedure Diagnosis
+ClmProcedureCode_4,Codes for Procedure Diagnosis
+ClmProcedureCode_5,Codes for Procedure Diagnosis
+ClmProcedureCode_6,Codes for Procedure Diagnosis
+Deductible_Amount_Paid,Amount paid by benificiary 
+Diagnosis_Group_Code,Group That diagnosed
+Discharge_Date,Discharge_Date
+Insurance_Amount_Reimbursed,Insurance_Amount_Reimbursed
+Operating_Physician,Operating_Physician
+Other_Physician,Other_Physician
+PatientType,If 0 the patient is admitted to hospital If 1 the pateint was not admitted to hospital
+Provider,Hospital_ID
